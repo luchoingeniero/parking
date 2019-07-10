@@ -1,0 +1,24 @@
+{
+  "name": "parking",
+  "version": "1.0.0",
+  "description": "Api Rest by Application for parking administration",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchoingeniero/parking.git"
+  },
+  "keywords": [
+    "apirest",
+    "nodejs",
+    "parking"
+  ],
+  "author": "Luis Galeano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchoingeniero/parking/issues"
+  },
+  "homepage": "https://github.com/luchoingeniero/parking#readme"
+}
